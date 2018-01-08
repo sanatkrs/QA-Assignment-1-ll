@@ -8,9 +8,9 @@ Report Location: Adidas-QA-Task1-ll\src\test\resources\ExtentReport\AllReport.ht
 
 <Strong>About Task</Strong>:
 
-1. Response Ame should be bellow 1s<br>
+1. Response time should be below 1s<br>
 Test Case Status: Pass
 2. Images should be accessible (no 404/401s)<br>
 Test Case Status: Pass
-3. Every component has at least analyAcs data “analytics_name” in it<br>
+3. Every component has at least analytics data “analytics_name” in it<br>
 Test Case status: Fail : analytics_name is not present in all of the Componenets
